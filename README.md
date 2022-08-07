@@ -3,7 +3,7 @@
 <p border-radius=5> <a href="https://twitter.com/kshitij0123" target="blank"><img src="https://img.shields.io/twitter/follow/kshitij0123?logo=twitter&style=for-the-badge" alt="kshitij0123" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
   <a href="https://codepen.io/kshitij agarwal" target="blank">
     <img align="center" src=".\assets\code-pen.png" alt="kshitij agarwal" height="40" width="40"/>
   </a>
