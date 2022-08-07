@@ -14,7 +14,7 @@
     <img src=".\assets\c.png" alt="c" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src=".\assets\c#.png" alt="csharp" width="40" height="40"/>
+    <img src=".\assets\csharp.png" alt="csharp" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src=".\assets\css.png" alt="css3" width="40" height="40"/>
