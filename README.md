@@ -59,13 +59,13 @@
   </a>
 </p>
 
-
+<div>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitij-0123&layout=compact&show_icons=true&title_color=8E00ED&icon_color=D00BE6&hide_border=true&text_color=E2C6E8&border_radius=10px&bg_color=90deg,0d1017,150D17" alt="kshitij-0123" />
 </p>
 <p>
   &nbsp; <img align="right" height=200px src="https://github-readme-stats.vercel.app/api?username=kshitij-0123&show_icons=true&title_color=8E00ED&icon_color=D00BE6&hide_border=true&text_color=E2C6E8&border_radius=10px&bg_color=90deg,0d1017,150D17" alt="kshitij-0123" />
 </p>
-
+</div>
 <img width=100% src="https://github.com/Kshitij-0123/Kshitij-0123/blob/output/github-contribution-grid-snake.svg">
   
