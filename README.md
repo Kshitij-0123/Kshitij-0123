@@ -61,7 +61,7 @@
 
 <div>
   <p>
-    <img align="right" height=180px src="https://github-readme-stats.vercel.app/api?username=kshitij-0123&show_icons=true&title_color=8E00ED&icon_color=D00BE6&hide_border=true&text_color=E2C6E8&border_radius=10px&bg_color=90deg,0d1017,150D17" alt="kshitij-0123" />
+    <img align="right" height=180px src="https://github-readme-stats.vercel.app/api?username=kshitij-0123&show_icons=true&title_color=8E00ED&icon_color=D00BE6&hide_border=true&text_color=FFFFFF&border_radius=10px&bg_color=90deg,0d1017,150D17" alt="kshitij-0123" />
   </p>
   <p>
     <img align="left" height=130px src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitij-0123&layout=compact&show_icons=true&title_color=8E00ED&icon_color=D00BE6&hide_border=true&text_color=FFFFFF&border_radius=10px&bg_color=90deg,0d1017,150D17" alt="kshitij-0123" />
