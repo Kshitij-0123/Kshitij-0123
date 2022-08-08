@@ -18,17 +18,9 @@
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- | ------------- |
 | <img width="30px" height="30px" src=".\assets\html.png"> | <img width="30px" height="30px" src=".\assets\css.png"> | <img width="30px" height="30px" src=".\assets\js.png"> | <img width="30px" height="30px" src=".\assets\node-js.png"> | <img width="30px" height="30px" src=".\assets\react.png"> | <img width="30px" height="30px" src=".\assets\git.png"> | <img width="30px" height="30px" src=".\assets\postman.png"> | <img width="30px" height="30px" src=".\assets\linux.png"> | <img width="30px" height="30px" src=".\assets\xd.png"> | <img width="30px" height="30px" src=".\assets\ai.png"> | <img width="30px" height="30px" src=".\assets\ps.png"> | <img width="30px" height="30px" src=".\assets\py.png"> | <img width="30px" height="30px" src=".\assets\java.png"> | <img width="30px" height="30px" src=".\assets\c.png"> | <img width="30px" height="30px" src=".\assets\csharp.png"> |
 
-<div>
-  <p>
+<img align="right" height=180px src="https://github-readme-stats.vercel.app/api?username=kshitij-0123&show_icons=true&title_color=8E00ED&icon_color=D00BE6&hide_border=true&text_color=FFFFFF&border_radius=10px&bg_color=90deg,0d1017,150D17" alt="kshitij-0123" />
 
-    <img align="right" height=180px src="https://github-readme-stats.vercel.app/api?username=kshitij-0123&show_icons=true&title_color=8E00ED&icon_color=D00BE6&hide_border=true&text_color=FFFFFF&border_radius=10px&bg_color=90deg,0d1017,150D17" alt="kshitij-0123" />
+<img align="left" height=130px src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitij-0123&layout=compact&show_icons=true&title_color=8E00ED&icon_color=D00BE6&hide_border=true&text_color=FFFFFF&border_radius=10px&bg_color=90deg,0d1017,150D17" alt="kshitij-0123" />
 
-  </p>
-  <p>
-
-    <img align="left" height=130px src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitij-0123&layout=compact&show_icons=true&title_color=8E00ED&icon_color=D00BE6&hide_border=true&text_color=FFFFFF&border_radius=10px&bg_color=90deg,0d1017,150D17" alt="kshitij-0123" />
-
-  </p>
-</div>
 <img width=100% src="https://github.com/Kshitij-0123/Kshitij-0123/blob/output/github-contribution-grid-snake.svg">
   
