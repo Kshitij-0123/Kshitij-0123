@@ -14,7 +14,7 @@
   </a>
 </p>
 
-| **HTML5**  | **CSS3** | **JAVASCRIPT** | **NODE JS** | **REACT JS** | **GIT** | **POSTMAN** | **LINUX** | **ADOBE XD** | **ADOBE ILLUSTRATOR** | **ADOBE PHOTOSHOP** | **PYTHON** | **JAVA** | **C** | **C#** |
+| **HTML5**  | **CSS3** | **JAVASCRIPT** | **NODE JS** | **REACT JS** | **&nbsp;GIT&nbsp;** | **POSTMAN** | **LINUX** | **ADOBE XD** | **ADOBE ILLUSTRATOR** | **ADOBE PHOTOSHOP** | **PYTHON** | **JAVA** | **&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;** | **&nbsp;&nbsp;C#&nbsp;&nbsp;** |
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- | ------------- |
 | <img width="30px" height="30px" src=".\assets\html.png"> | <img width="30px" height="30px" src=".\assets\css.png"> | <img width="30px" height="30px" src=".\assets\js.png"> | <img width="30px" height="30px" src=".\assets\node-js.png"> | <img width="30px" height="30px" src=".\assets\react.png"> | <img width="30px" height="30px" src=".\assets\git.png"> | <img width="30px" height="30px" src=".\assets\postman.png"> | <img width="30px" height="30px" src=".\assets\linux.png"> | <img width="30px" height="30px" src=".\assets\xd.png"> | <img width="30px" height="30px" src=".\assets\ai.png"> | <img width="30px" height="30px" src=".\assets\ps.png"> | <img width="30px" height="30px" src=".\assets\py.png"> | <img width="30px" height="30px" src=".\assets\java.png"> | <img width="30px" height="30px" src=".\assets\c.png"> | <img width="30px" height="30px" src=".\assets\csharp.png"> |
 
