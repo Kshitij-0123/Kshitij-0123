@@ -21,9 +21,9 @@
 
 - 📫 How to reach me **kshitij8815@gmail.com**
 
-<img align="left" height=180px src="https://github-readme-stats.vercel.app/api?username=kshitij-0123&show_icons=true&title_color=8E00ED&icon_color=D00BE6&hide_border=true&text_color=FFFFFF&border_radius=10px&bg_color=90deg,0d1017,150D17" alt="kshitij-0123" />
+<img align="left" height=180px src="https://github-readme-stats.vercel.app/api?username=kshitij-0123&show_icons=true&title_color=8E00ED&icon_color=D00BE6&hide_border=true&text_color=FFFFFF&border_radius=10px&bg_color=90deg,0d101700,150D1700" alt="kshitij-0123" />
 
-<img align="right" height=130px src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitij-0123&layout=compact&show_icons=true&title_color=8E00ED&icon_color=D00BE6&hide_border=true&text_color=FFFFFF&border_radius=10px&bg_color=90deg,0d1017,150D17" alt="kshitij-0123" />
+<img align="right" height=130px src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitij-0123&layout=compact&show_icons=true&title_color=8E00ED&icon_color=D00BE6&hide_border=true&text_color=FFFFFF&border_radius=10px&bg_color=90deg,0d101700,150D1700" alt="kshitij-0123" />
 
 <img width=100% src="https://github.com/Kshitij-0123/Kshitij-0123/blob/output/github-contribution-grid-snake.svg">
   
