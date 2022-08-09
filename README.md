@@ -16,7 +16,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ivikaschauhan&theme=radical" alt="ivikaschauhan" /></p>
 <img align='right' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" width="280">
-
+<br>
 - 🌱 I'm currently learning **Web Development**
 
 - 💚 I'm Currently Intrested in **Machine Learning and Data Science**
