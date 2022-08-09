@@ -14,16 +14,16 @@
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- | ------------- |
 | &nbsp;&nbsp;<img width="30px" height="30px" src=".\assets\html.png"> | &nbsp;<img width="30px" height="30px" src=".\assets\css.png"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="30px" height="30px" src=".\assets\js.png"> | &nbsp;&nbsp;<img width="30px" height="30px" src=".\assets\node-js.png"> | &nbsp;&nbsp;<img width="30px" height="30px" src=".\assets\react.png"> | <img width="30px" height="30px" src=".\assets\git.png"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="30px" height="30px" src=".\assets\postman.png"> | &nbsp;&nbsp;<img width="30px" height="30px" src=".\assets\linux.png"> | &nbsp;&nbsp;<img width="30px" height="30px" src=".\assets\xd.png"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="30px" height="30px" src=".\assets\ai.png"> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="30px" height="30px" src=".\assets\ps.png"> | &nbsp;&nbsp;&nbsp;&nbsp;<img width="30px" height="30px" src=".\assets\py.png"> | &nbsp;<img width="30px" height="30px" src=".\assets\java.png"> | &nbsp;<img width="30px" height="30px" src=".\assets\c.png"> | &nbsp;<img width="30px" height="30px" src=".\assets\csharp.png"> |
 
-<p><img align='left' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" width="300">&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=ivikaschauhan&theme=radical" alt="ivikaschauhan" /></p>
+<p><img align='left' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" width="300">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=ivikaschauhan&theme=radical" alt="ivikaschauhan" /></p>
 
 
-- 🌱 I'm currently learning **Web Development**
+&nbsp;&nbsp; &nbsp;&nbsp; - 🌱 I'm currently learning **Web Development**
 
-- 💚 I'm Currently Intrested in **Machine Learning and Data Science**
+&nbsp;&nbsp; &nbsp;&nbsp; - 💚 I'm Currently Intrested in **Machine Learning and Data Science**
 
-- 💞 A **Weeb**
+&nbsp;&nbsp; &nbsp;&nbsp; - 💞 A **Weeb**
 
-- 📫 How to reach me **kshitij8815@gmail.com**
+&nbsp;&nbsp; &nbsp;&nbsp; - 📫 How to reach me **kshitij8815@gmail.com**
 
 <img align="left" height=180px src="https://github-readme-stats.vercel.app/api?username=kshitij-0123&show_icons=true&title_color=8E00ED&icon_color=D00BE6&hide_border=true&text_color=FFFFFF&border_radius=10px&bg_color=90deg,0d101700,150D1700" alt="kshitij-0123" />
 
