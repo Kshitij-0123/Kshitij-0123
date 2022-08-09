@@ -21,14 +21,8 @@
 <br>
 
 - 🌱 I'm currently learning **Web Development**
-<br>
-
 - 💚 I'm Currently Intrested in **Machine Learning and Data Science**
-<br>
-
 - 💞 A **Weeb**
-<br>
-
 - 📫 How to reach me **kshitij8815@gmail.com**
 
 <img align="left" height=180px src="https://github-readme-stats.vercel.app/api?username=kshitij-0123&show_icons=true&title_color=8E00ED&icon_color=D00BE6&hide_border=true&text_color=FFFFFF&border_radius=10px&bg_color=90deg,0d101700,150D1700" alt="kshitij-0123" />
